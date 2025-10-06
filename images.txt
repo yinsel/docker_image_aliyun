@@ -1,3 +1,4 @@
 mengweijin/oracle:12.2.0.1-ee
 anroe/nginx-headers-more:1.22.1-headers-more-v0.34
 haproxy:latest
+openjdk:11
