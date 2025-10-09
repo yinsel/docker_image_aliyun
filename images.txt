@@ -3,3 +3,5 @@ anroe/nginx-headers-more:1.22.1-headers-more-v0.34
 haproxy:latest
 openjdk:11
 mattermost/mattermost-team-edition:release-11
+library/postgres
+casbin/casdoor:v2.55.0
