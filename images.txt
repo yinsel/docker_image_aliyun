@@ -6,3 +6,4 @@ mattermost/mattermost-team-edition:release-11
 library/postgres
 casbin/casdoor:v2.78.0
 hackmdio/hackmd:2.6.0
+outlinewiki/outline:0.87.4
