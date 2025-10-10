@@ -4,4 +4,5 @@ haproxy:latest
 openjdk:11
 mattermost/mattermost-team-edition:release-11
 library/postgres
-casbin/casdoor:v2.55.0
+casbin/casdoor:v2.78.0
+hackmdio/hackmd:2.6.0
