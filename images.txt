@@ -8,3 +8,9 @@ casbin/casdoor:v2.78.0
 outlinewiki/outline:0.87.4
 library/redis
 nabo.codimd.dev/hackmdio/hackmd
+authelia/authelia:4.39
+library/redis:alpine
+library/postgres:11.6-alpine
+mattermost/mattermost-enterprise-edition:release-11
+library/postgres:18
+traefik:v3.5.3
