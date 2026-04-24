@@ -13,4 +13,5 @@ library/redis:alpine
 library/postgres:11.6-alpine
 mattermost/mattermost-enterprise-edition:release-11
 library/postgres:18
-traefik:v3.5.3
+traefik:v3.6.13
+quay.io/hedgedoc/hedgedoc:1.10.8
