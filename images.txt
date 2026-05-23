@@ -15,3 +15,4 @@ mattermost/mattermost-enterprise-edition:release-11
 library/postgres:18
 traefik:v3.6.13
 quay.io/hedgedoc/hedgedoc:1.10.8
+golang:1.20.14-alpine
