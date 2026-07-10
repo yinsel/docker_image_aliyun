@@ -1,1 +1,3 @@
 mengweijin/oracle:12.2.0.1-ee
+ghcr.io/chaitin/agent-compose:v2607.6.0
+ghcr.io/chaitin/agent-compose-ui:latest
