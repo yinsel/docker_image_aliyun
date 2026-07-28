@@ -1,1 +1,1 @@
-ghcr.io/chaitin/agent-compose-guest:v2607.6.0
+mysql:5.7.44
