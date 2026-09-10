@@ -1,1 +1,1 @@
-centos:6.10
+outlinewiki/outline:latest
