@@ -1,1 +1,5 @@
-outlinewiki/outline:latest
+outlinewiki/outline:v1.12.0
+postgres:18
+traefik:v3.7.13
+authelia/authelia:4.39.20
+redis
